@@ -57,7 +57,7 @@
 
 Якщо ви хочете підтримати розробку цієї локалізації або інші проекти, ви можете надіслати донат на Монобанку:
 
-[![Донат через Монобанк](https://img.shields.io/badge/Підтримати_проект-Monobank-5865F2?style=for-the-badge&logo=monobank&logoColor=white&color=ff5a5f)](https://send.monobank.ua/jar/ТВІЙ_ID_БАНКИ)
+[![Донат через Монобанк](https://img.shields.io/badge/Підтримати_проект-Monobank-5865F2?style=for-the-badge&logo=monobank&logoColor=white&color=ff5a5f)](https://send.monobank.ua/jar/2jcizRNGLp)
 
 > 🦅 Якщо кошти від пожертв тимчасово не знадобляться для розвитку проекту або утвориться надлишок, **усі накопичені фінанси будуть у повному обсязі передані на збори Сергія Стерненка для закупівлі FPV-дронів** для ЗСУ.
 
