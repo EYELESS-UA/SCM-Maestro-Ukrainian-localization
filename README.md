@@ -1,7 +1,7 @@
 # Українізація SCM Maestro
 
 ![Статус проекту](https://img.shields.io/badge/Статус-В_розробці-orange?style=flat-square)
-![Тип софту](https://img.shields.io/badge/Софт-ЧПК_/_CNC-blue?style=flat-square)
+![Версія Cофту](https://img.shields.io/badge/V1.00.017.1016-blue?style=flat-square)
 ![GitHub Pull Requests](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)
 ![Відкриті Issues](https://img.shields.io/github/issues/EYELESS-UA/SCM-Maestro-Ukrainian-Localization?style=flat-square)
 ![Останній коміт](https://img.shields.io/github/last-commit/EYELESS-UA/SCM-Maestro-Ukrainian-Localization?style=flat-square)
