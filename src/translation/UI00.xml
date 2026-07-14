@@ -42,19 +42,19 @@
 	<string code="SaveProjectAsEnvironmentVariableButton">Save as global variables</string>
 	<string code="OpenProjectButton">Відкрити</string>
 	<string code="ImportMenuButton">Імпортувати</string>
-	<string code="ImportScriptButton">Import script</string>
+	<string code="ImportScriptButton">Імпорт скрипта</string>
 	<string code="ImportWorkpieceButton">Import piece</string>
 	<string code="ImportDxfButton">Імпорт dxf</string>
 	<string code="ImportPGMButton">Імпорт Pgm</string>
 	<string code="ImportTcnButton">Імпорт tcn</string>
-	<string code="CloseProjectButton">Close</string>
+	<string code="CloseProjectButton">Закрити</string>
 	<string code="PrintButton">Print </string>
-	<string code="AboutButton">About</string>
-	<string code="HelpButton">Guide</string>
+	<string code="AboutButton">Про нас</string>
+	<string code="HelpButton">Посібник</string>
 	<string code="CutButton">Вирізати</string>
 	<string code="CopyButton">Копіювати</string>
 	<string code="PasteButton">Вставити</string>
-	<string code="DeleteButton">Cancel</string>
+	<string code="DeleteButton">Скасувати</string>
 	<string code="NewGenericProjectButton">Новий</string>
 	<string code="NewProjectButton">Проект</string>
 	<string code="NewNestingProjectButton">Nesting</string>
@@ -78,15 +78,15 @@
 	<string code="ZoomOutButton">Zoom -</string>
 	<string code="DynamicZoomButton">Dynamic Zoom</string>
 	<string code="PieceZoomButton">Piece Zoom</string>
-	<string code="WireframeButton">Wireframe</string>
-	<string code="WireframeHButton">Without hidden lines</string>
-	<string code="Shading25Button">Shading 25%</string>
-	<string code="Shading50Button">Shading 50%</string>
-	<string code="Shading75Button">Shading 75%</string>
-	<string code="ShadingButton">Opaque view</string>
+	<string code="WireframeButton">Каркас</string>
+	<string code="WireframeHButton">Без прихованих ліній</string>
+	<string code="Shading25Button">Затінення 25%</string>
+	<string code="Shading50Button">Затінення 50%</string>
+	<string code="Shading75Button">Затінення 75%</string>
+	<string code="ShadingButton">Непрозорий вид</string>
 	<string code="RenderButton">Render view</string>
 	<string code="SimpleViewButton">CAM</string>
-	<string code="VisualizationOptionsButton">Options</string>
+	<string code="VisualizationOptionsButton">Опції</string>
 	<string code="OpaqueViewButton">Opaque View</string>
 	<string code="HideStartPointGeometryButton">Hide Geometries start</string>
 	<string code="HideStartPointOperationButton">Hide Processes start</string>
@@ -233,7 +233,7 @@
 	<string code="PlaneByGeometryButton">From geometry</string>
 	<string code="PlaneBySurfaceButton">From surfaces</string>
 	<string code="SurfaceGroup">Surfaces</string>
-	<string code="Curve3DGroup">3D curve</string>
+	<string code="Curve3DGroup">3D криві</string>
 	<string code="SurfaceEditGroup">Change surfaces</string>
 	<string code="SolidGroup">Solids</string>
 	<!-- End Draw-->
@@ -313,10 +313,10 @@
 	<!-- MainWorkplanSetup-->
 	<string code="MainWorkplanSetupInitialFormContent">Detected table programming with EPL. Confirming with the command the EPL programming will be reset</string>
 	<string code="MainWorkplanSetupTab">Setup</string>
-	<string code="MainWorkplanSetupCloseGroup">Close</string>
-	<string code="MainWorkplanSetupCloseRibbonButton">Close</string>
+	<string code="MainWorkplanSetupCloseGroup">Закрити</string>
+	<string code="MainWorkplanSetupCloseRibbonButton">Закрити</string>
 	<string code="MainWorkplanSetupCloseToolTipDescription">Close the piece availability context on the work top.</string>
-	<string code="MainWorkplanSetupCloseToolTipTitle">Close</string>
+	<string code="MainWorkplanSetupCloseToolTipTitle">Закрити</string>
 	<string code="MainWorkplanSetupMoveGroupTitle">Movement</string>
 	<string code="MainWorkplanSetupRotateSuctionCupButtonLabel">Suction device rotation</string>
 	<string code="MainWorkplanSetupRotateSuctionCupToolTipDescription">Enables rotation of the suction device.</string>
@@ -665,7 +665,7 @@
 	<string code="SaveAsEnvironmentVariableToolTipDescription">Save with global variables name.</string>
 	<string code="OpenFileToolTipTitle">Open file (Ctrl + O).</string>
 	<string code="OpenFileToolTipDescription">Opening of a file.</string>
-	<string code="CloseProjectToolTipTitle">Close.</string>
+	<string code="CloseProjectToolTipTitle">Закрити.</string>
 	<string code="CloseProjectToolTipDescription">Closing of the current project.</string>
 	<string code="ImportToolTipTitle">Import Control</string>
 	<string code="ImportToolTipDescription">Allows the execution of the workpiece import commands, script file, file dxf.</string>
@@ -1143,7 +1143,7 @@
 	<string code="EstimationResultTitle">Times estimate results</string>
 	<string code="SaveEstimationResultsLabel">Save results</string>
 	<string code="ExportEstimationResultsLabel">Export results</string>
-	<string code="CloseEstimationResultsLabel">Close</string>
+	<string code="CloseEstimationResultsLabel">Закрити</string>
 	<string code="EstimateProjectToolTipTitle">Current project time estimate.</string>
 	<string code="EstimateProjectToolTipDescription">
 		Command used to estimate the current project execution time.
@@ -1417,7 +1417,7 @@
 		Do you want to save the file now?
 	</string>
 	<string code="ProgressBarWindowViewTitle">Elaboration in progress...</string>
-	<string code="ProgressBarWindowCancelLabel">Cancel</string>
+	<string code="ProgressBarWindowCancelLabel">Скасувати</string>
 	<string code="pocketGeometriesOpenWarningMessage">
 		Pocketing cannot be applied to some geometries because they are not closed.
 	</string>
@@ -1612,7 +1612,7 @@
 	<string code="ManualNestingRemnantGeometryErrorMessage">Geometry to create a remnant must be a rectangle curve.</string>
 	<string code="ManualNestingScrapGeometryErrorMessage">Geometry to create a scrap must be a closed curve.</string>
 	<!--Fine Messaggi da messageBox-->
-	<string code="cancelButton">Cancel</string>
+	<string code="cancelButton">Скасувати</string>
 	<string code="applyButton">Apply</string>
 	<string code="saveButton">Save</string>
 	<string code="openButton">Open</string>
@@ -1691,8 +1691,8 @@
 	<string code="openFileMenu">Open</string>
 	<string code="saveFileMenu">Save</string>
 	<string code="saveasFileMenu">Save as</string>
-	<string code="cloaseFileMenu">Close</string>
-	<string code="CloseallFileMenu">Close all</string>
+	<string code="cloaseFileMenu">Закрити</string>
+	<string code="CloseallFileMenu">Закрити все</string>
 	<string code="printFileMenu">Print</string>
 	<string code="exitFileMenu">Exit</string>
 	<string code="undoModifyMenu">Undo modify</string>
@@ -2312,7 +2312,7 @@
 	<string code="wizardStartDialogWizardBackButtonContent">Back</string>
 	<string code="wizardStartDialogWizardNextButtonContent">Next</string>
 	<string code="wizardStartDialogWizardFinishButtonContent">End</string>
-	<string code="wizardStartDialogWizardCloseButtonContent">Close</string>
+	<string code="wizardStartDialogWizardCloseButtonContent">Закрити</string>
 	<string code="wizardImagesOpenImageFileFilter">Image file (*.bmp, *.jpg, *.png) | *.bmp; *.jpg; *.png</string>
 	<string code="wizardStartDialogGeneralParametersHeaderTitle">General parameters</string>
 	<string code="wizardStartDialogGeneralParametersHeaderSummary">
@@ -3567,7 +3567,7 @@
 	<string code="nestingWizardBackButtonContent">Back</string>
 	<string code="nestingWizardNextButtonContent">Next</string>
 	<string code="nestingWizardFinishButtonContent">End</string>
-	<string code="nestingWizardCloseButtonContent">Close</string>
+	<string code="nestingWizardCloseButtonContent">Закрити</string>
 	<string code="nestingWizardHeaderLabel">Nesting</string>
 	<string code="nestingWizardSummaryLabel">Create rectangular or FreeForm Nesting</string>
 	<string code="nestingWizardNestingTypeName">Type</string>
@@ -3765,7 +3765,7 @@
 	<string code="nestingWizardParamInfoUnLoadCleanStartQuote1">All the table</string>
 	<string code="nestingWizardParamInfoUnLoadUnLoaderOffset">Unloader position offset</string>
 	<string code="nestingWizardNestingResultViewTitle">Nesting results</string>
-	<string code="nestingWizardNestingResultViewCloseButton">Close</string>
+	<string code="nestingWizardNestingResultViewCloseButton">Закрити</string>
 	<string code="nestingWizardLabelInfoName">Labelling</string>
 	<string code="nestingWizardLabelInfoHeaderTitle">Labelling</string>
 	<string code="nestingWizardLabelInfoHeaderSummary">Initialisation of the parameters to be used for labelling management</string>
@@ -3816,7 +3816,7 @@
 	<string code="mixProjectWizardHeaderSummaryTitle">Creating a Mix project containing a list of program for which it is possible to define the sequence and parameters </string>
 	<string code="mixProjectWizardSaveButtonContent">Save</string>
 	<string code="mixProjectWizardPostButtonContent">Post</string>
-	<string code="mixProjectWizardCloseButtonContent">Close</string>
+	<string code="mixProjectWizardCloseButtonContent">Закрити</string>
 	<string code="mixProjectWizardPrintButtonContent">Print</string>
 	<string code="mixProjectWizardAddMixProjectElementContextMenu">Add</string>
 	<string code="mixProjectWizardAddFilesButtonContent">Programs</string>
@@ -3852,7 +3852,7 @@
 	<string code="MPWProjectElementsSelectionViewTitle">Selection of the programs to insert in the Mix</string>
 	<string code="MPWProjectElementsSelectionViewAddButtonLabel">Add</string>
 	<string code="MPWProjectElementsSelectionViewApplyButtonLabel">Apply</string>
-	<string code="MPWProjectElementsSelectionViewCancelButtonLabel">Cancel</string>
+	<string code="MPWProjectElementsSelectionViewCancelButtonLabel">Скасувати</string>
 	<string code="MPWProjectElementsSelectionViewBrowseDescription">Selection of the main folder from which to extract the pgmx.</string>
 	<string code="mixProjectWizardOptimizationModeHeader">Optimization</string>
 	<string code="mixProjectWizardOddEvenExecutionHeader">Odd/Even </string>
@@ -3906,7 +3906,7 @@
 	<string code="FeedrateProfileViewerTitle">Speed profiles</string>
 	<string code="FeedrateTechnologyTableViewerTitle">Technologies table</string>
 	<string code="FeedrateProfileViewerApplyButtonLabel">Apply</string>
-	<string code="FeedrateProfileViewerCancelButtonLabel">Cancel</string>
+	<string code="FeedrateProfileViewerCancelButtonLabel">Скасувати</string>
 	<string code="FeedrateProfileViewerDeleteProfileConfirmMessage">The speed profile {0} will be deleted. The action cannot be reversed.\nContinue?</string>
 	<string code="FeedrateProfileViewerDeleteProfilesConfirmMessage">The speed profiles selected will be deleted. The action cannot be reversed.\nContinue?</string>
 	<string code="FeedrateProfileViewerDeleteTableConfirmMessage">The table of technologies {0} will be deleted. The action cannot be reversed.\nContinue?</string>
@@ -3920,7 +3920,7 @@
 	<string code="WizardOpenFile">Відкрити</string>
 	<string code="WizardSaveFile">Зберехти</string>
 	<string code="WizardSaveAsFile">Зберехти як</string>
-	<string code="WizardClose">Close</string>
+	<string code="WizardClose">Закрити</string>
 	<string code="WizardCutElement">Вирізати</string>
 	<string code="WizardCopyElement">Копіювати</string>
 	<string code="WizardPasteElement">Вставити</string>
@@ -3929,7 +3929,7 @@
 	<string code="WizardBackButtonContent">Back</string>
 	<string code="WizardNextButtonContent">Next</string>
 	<string code="WizardFinishButtonContent">Finish</string>
-	<string code="WizardCloseButtonContent">Close</string>
+	<string code="WizardCloseButtonContent">Закрити</string>
 	<!--Fine Wizard Common Strings-->
 	<!--MaterialStore Wizard-->
 	<string code="MaterialStoreWizardTitle">Materials store</string>
@@ -3964,7 +3964,7 @@
 	<!-- SubProgram Viewer-->
 	<string code="SubProgramsViewerTitle">Macro</string>
 	<string code="SubProgramsApplyButtonLabel">Apply</string>
-	<string code="SubProgramsCancelButtonLabel">Cancel</string>
+	<string code="SubProgramsCancelButtonLabel">Скасувати</string>
 	<string code="SubProgramsListBoxLabel">Select the Macro to activate:</string>
 	<string code="SelectDeselectAllLabel">Select/deselect all.</string>
 	<string code="DeleteSubProgramMenuLabel">Видалити</string>
@@ -3981,7 +3981,7 @@
 	<!--SubProgramConfigGroupView-->
 	<string code="SubProgramConfigGroupViewTitle">Groups</string>
 	<string code="SubProgramConfigGroupApplyButtonLabel">Apply</string>
-	<string code="SubProgramConfigGroupCancelButtonLabel">Cancel</string>
+	<string code="SubProgramConfigGroupCancelButtonLabel">Скасувати</string>
 	<string code="SubProgramConfigGroupNewGroupButtonLabel">New</string>
 	<string code="SubProgramConfigGroupDeleteGroupButtonLabel">Delete</string>
 	<string code="SubProgramConfigGroupGroupBoxHeader">Group data</string>
@@ -3994,7 +3994,7 @@
 	<string code="ScriptComponentWizardBackButtonContent">Back</string>
 	<string code="ScriptComponentWizardNextButtonContent">Next</string>
 	<string code="ScriptComponentWizardFinishButtonContent">Finish</string>
-	<string code="ScriptComponentWizardCloseButtonContent">Close</string>
+	<string code="ScriptComponentWizardCloseButtonContent">Закрити</string>
 	<string code="ScriptComponentGeneralDataMacroName">Component</string>
 	<string code="ScriptComponentWizardGeneralDataHeaderTitle">General parameters</string>
 	<string code="ScriptComponentWizardGeneralDataHeaderSummary">
@@ -4057,7 +4057,7 @@
 	<string code="ScriptSubprogramWizardBackButtonContent">Back</string>
 	<string code="ScriptSubprogramWizardNextButtonContent">Next</string>
 	<string code="ScriptSubprogramWizardFinishButtonContent">Finish</string>
-	<string code="ScriptSubprogramWizardCloseButtonContent">Close</string>
+	<string code="ScriptSubprogramWizardCloseButtonContent">Закрити</string>
 	<string code="ScriptSubprogramWizardGeneralDataHeaderTitle">General parameters</string>
 	<string code="ScriptSubprogramWizardGeneralDataHeaderSummary">
 		Enter the general macro data, such as name and description and
@@ -4248,7 +4248,7 @@
 	<string code="ScriptSubprogramXamlGroups">Definition of the units</string>
 	<string code="ScriptSubprogramXamlErrorMessages">Definition of the error messages</string>
 	<string code="ScriptSubprogramXamlOKButtonText">Apply</string>
-	<string code="ScriptSubprogramXamlCancelButtonText">Cancel</string>
+	<string code="ScriptSubprogramXamlCancelButtonText">Скасувати</string>
 	<string code="ScriptSubprogramCreateSuccesText">
 		The Macro creation or updating operation was successful,
 		To use it the application must be restarted. Do you want to close the application now?
@@ -4263,7 +4263,7 @@
 	<string code="SSPWMultipleValuesAddMultipleValueLabel">Add</string>
 	<string code="SSPWMultipleValuesDeleteMultipleValuesLabel">Remove</string>
 	<string code="SSPWMultipleValuesApplyMultipleValueLabel">Apply</string>
-	<string code="SSPWMultipleValuesCancelMultipleValueLabel">Cancel</string>
+	<string code="SSPWMultipleValuesCancelMultipleValueLabel">Скасувати</string>
 	<string code="SSPWMultipleValuesNameLabel">Name</string>
 	<string code="SSPWMultipleValuesValueLabel">Value</string>
 	<string code="SSPWMultipleValuesSelectionLabel">Select/Deselect all</string>
@@ -4283,7 +4283,7 @@
 	<string code="PTFWTitle">Tools update wizard</string>
 	<string code="PTFWBackLabel">Back</string>
 	<string code="PTFWNextLabel">Next</string>
-	<string code="PTFWCloseLabel">Close</string>
+	<string code="PTFWCloseLabel">Закрити</string>
 	<string code="PTFWUpdateLabel">Update</string>
 	<string code="PTFWSelectToolFileHeaderTitle">Tools file</string>
 	<string code="PTFWSelectToolFileHeaderSummary">Selection of the tools file used to update the project and all machinings contained</string>
@@ -4309,7 +4309,7 @@
 	<string code="APWTitle">Project creation wizard</string>
 	<string code="APWBackLabel">Back</string>
 	<string code="APWNextLabel">Next</string>
-	<string code="APWCloseLabel">Close</string>
+	<string code="APWCloseLabel">Закрити</string>
 	<string code="APWFinishLabel">Finish</string>
 	<string code="APWProjectFilesSelectionHeaderTitle">Programs</string>
 	<string code="APWProjectFilesSelectionHeaderSummary">Selection of the files to which the machining optimization and work table positioning can be applied</string>
@@ -4336,7 +4336,7 @@
 	<string code="TechnologyWizardBackButtonContent">Back</string>
 	<string code="TechnologyWizardNextButtonContent">Next</string>
 	<string code="TechnologyWizardFinishButtonContent">Finish</string>
-	<string code="TechnologyWizardCloseButtonContent">Close</string>
+	<string code="TechnologyWizardCloseButtonContent">Закрити</string>
 	<string code="TechnologyWizardGeneralDataHeaderTitle">General parameters</string>
 	<string code="TechnologyWizardGeneralDataHeaderSummary">
 		Enter the general technology data, such as name and description, and
@@ -5031,7 +5031,7 @@
 	<string code="SaveCommandButtonLabel">Save</string>
 	<string code="NewPresetCommandButtonLabel">New</string>
 	<string code="ApplyCommandButtonLabel">OK</string>
-	<string code="CancelCommandButtonLabel">Cancel</string>
+	<string code="CancelCommandButtonLabel">Скасувати</string>
 	<string code="PresetSelectionLabel">Preset:</string>
 	<string code="EasyLoadingNameLabel">Name</string>
 	<string code="AddCommandButtonLabel">Add</string>
@@ -5126,7 +5126,7 @@
 	<string code="CombiflexProjectWizardAddButtonContent">Add</string>
 	<string code="CombiflexProjectWizardRemoveButtonContent">Remove</string>
 	<string code="CombiflexProjectWizardOptimizeButtonContent">Optimize</string>
-	<string code="CombiflexProjectWizardCloseButtonContent">Close</string>
+	<string code="CombiflexProjectWizardCloseButtonContent">Закрити</string>
 	<string code="CombiflexProjectFileName">Name</string>
 	<string code="CombiflexProjectFilePath">Path</string>
 	<string code="CombiflexProjectWizardError">The optimisation of the programs for the Combiflex table cannot be executed for the following reasons:</string>
@@ -5175,7 +5175,7 @@
 	<string code="AccordWDProjectWizardAddButtonContent">Add</string>
 	<string code="AccordWDProjectWizardRemoveButtonContent">Remove</string>
 	<string code="AccordWDProjectWizardOptimizeButtonContent">Optimise</string>
-	<string code="AccordWDProjectWizardCloseButtonContent">Close</string>
+	<string code="AccordWDProjectWizardCloseButtonContent">Закрити</string>
 	<string code="AccordWDProjectFileName">Name</string>
 	<string code="AccordWDProjectFilePath">Path</string>
 	<string code="AccordWDProjectWizardError">The optimisation of the programs for the Accord WD cannot be executed for the following reasons:</string>
@@ -6004,7 +6004,7 @@
 	<string code="OverturningTypeLabel">Type of tip over</string>
 	<string code="UniflexWizardCreateProjectButtonLabel">Create project</string>
 	<string code="UniflexWizardOptimizeButtonLabel">Optimise</string>
-	<string code="UniflexWizardExitButtonLabel">Close</string>
+	<string code="UniflexWizardExitButtonLabel">Закрити</string>
 	<string code="ImageToMeshTitle">Conversion from image to mesh</string>
 	<string code="ShowPreviewLabel">Show preview</string>
 	<string code="SmoothingLabel">Details reduction</string>
@@ -6035,7 +6035,7 @@
 	<string code="ToolEquipmentOptimizerWizardNextButtonContent">Forward</string>
 	<string code="ToolEquipmentOptimizerWizardRunButtonContent">Run</string>
 	<string code="ToolEquipmentOptimizerWizardStopButtonContent">Stop</string>
-	<string code="ToolEquipmentOptimizerWizardCloseButtonContent">Close</string>
+	<string code="ToolEquipmentOptimizerWizardCloseButtonContent">Закрити</string>
 	<string code="ToolEquipmentOptimizerWizardPage1HeaderTitle">Parametri di ottimizzazione</string>
 	<string code="ToolEquipmentOptimizerWizardPage1HeaderSummaryTitle">Allows the setting of the optimisation criteria and options for the tooling optimisation.</string>
 	<string code="ToolEquipmentOptimizerWizardPage2HeaderTitle">Execution</string>
@@ -6353,7 +6353,7 @@
 	<string code="WorkPiecePositioningProjectWizardAddButtonContent">Add</string>
 	<string code="WorkPiecePositioningProjectWizardRemoveButtonContent">Remove</string>
 	<string code="WorkPiecePositioningProjectWizardOptimizeButtonContent">Optimise</string>
-	<string code="WorkPiecePositioningProjectWizardCloseButtonContent">Close</string>
+	<string code="WorkPiecePositioningProjectWizardCloseButtonContent">Закрити</string>
 	<string code="WorkPiecePositioningProjectOpenFileFilter">Project or Mix (*.pgmx;*.mixx)|*.pgmx;*.mixx</string>
 	<string code="WorkPiecePositioningProjectInvalidExtensionError">The file type "{0}" is not managed.</string>
 	<string code="WorkPiecePositioningProjectLength">Length</string>
