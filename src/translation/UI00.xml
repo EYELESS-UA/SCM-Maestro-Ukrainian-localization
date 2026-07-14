@@ -9,30 +9,30 @@
 	<string code="aboutViewDescriptionCopyRightBusellato">
 		CopyRight @ 2010 Busellato.
 	</string>
-	<string code="aboutViewLicenseTitleBusellato">This product is licensed under the Busellato software license term to :</string>
-	<string code="aboutViewLicenseCustomersBusellato">Busellato Customers</string>
+	<string code="aboutViewLicenseTitleBusellato">Цей продукт ліцензовано відповідно до умов ліцензії на програмне забезпечення Busellato для :</string>
+	<string code="aboutViewLicenseCustomersBusellato">Клієнти Busellato</string>
 	<!-- FINE STRINGHE PER BUSELLATO -->
 	<!-- STRINGHE PER LA RIBBON -->
 	<!-- Resource dictionary entries should be defined here. -->
 	<string code="RibbonApplicationTitle">Xilog Maestro - Editor</string>
-	<string code="LabelPrinterManagerTitle">Print labels</string>
+	<string code="LabelPrinterManagerTitle">Друк етикеток</string>
 	<!--Application Menu-->
-	<string code="RibbonApplicationMenuLabel">Closes the application.</string>
+	<string code="RibbonApplicationMenuLabel">Закриває програму.</string>
 	<string code="RibbonApplicationMenuToolTipTitle">SCM Group Xilog Maestro.</string>
-	<string code="RibbonApplicationMenuToolTipDescription">Click to open, save, close a project.</string>
-	<string code="RibbonApplicationMenuToolTipFooterTitle">For further information press F1.</string>
-	<string code="RibbonFooterPaneContentExitLabel">Exit</string>
-	<string code="RibbonAuxiliaryPaneContentLabel">Recent files</string>
+	<string code="RibbonApplicationMenuToolTipDescription">Натисніть, щоб відкрити, зберегти, закрити проект.</string>
+	<string code="RibbonApplicationMenuToolTipFooterTitle">Для отримання додаткової інформації натисніть F1.</string>
+	<string code="RibbonFooterPaneContentExitLabel">Вихід</string>
+	<string code="RibbonAuxiliaryPaneContentLabel">Нещодавні файли</string>
 	<!-- Home -->
 	<string code="HomeTab">Головна</string>
-	<string code="FileGroup">File</string>
-	<string code="ClipboardGroup">Clipboard</string>
+	<string code="FileGroup">Файли</string>
+	<string code="ClipboardGroup">Буфер обміну</string>
 	<string code="CreateGroup">Створити</string>
 	<string code="ImportGroup">Імпорт</string>
-	<string code="ViewGroup">Views</string>
-	<string code="NavigateGroup">Navigation</string>
-	<string code="VisualStyleGroup">Display</string>
-	<string code="SelectionGroup">Selection</string>
+	<string code="ViewGroup">Вид</string>
+	<string code="NavigateGroup">Навігація</string>
+	<string code="VisualStyleGroup">Дисплей</string>
+	<string code="SelectionGroup">Вибір</string>
 	<string code="UndoRedoGroup">Undo-Redo</string>
 	<string code="SaveProjectButton">Зберегти</string>
 	<string code="SaveProjectAsButton">Зберегти як</string>
