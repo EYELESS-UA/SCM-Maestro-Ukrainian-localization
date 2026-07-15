@@ -653,9 +653,9 @@
 	<string code="NewWorkpieceToolTipDescription">
 		For creating a new piece of the parallelepiped type, or by extrusion in Z of a drawn geometry.
 	</string>
-	<string code="SaveProjectToolTipTitle">Save (Ctrl + S).</string>
-	<string code="SaveProjectToolTipDescription">Saving of the current file.</string>
-	<string code="SaveAsPgmxToolTipTitle">Save project with name.</string>
+	<string code="SaveProjectToolTipTitle">Зберегти (Ctrl + S).</string>
+	<string code="SaveProjectToolTipDescription">Збереження поточного файлу.</string>
+	<string code="SaveAsPgmxToolTipTitle">Зберегти проект під назвою.</string>
 	<string code="SaveAsPgmxToolTipDescription">Save with name of a CAM project.</string>
 	<string code="SaveAsMacroToolTipTitle">Save macro with name.</string>
 	<string code="SaveAsMacroToolTipDescription">Save with name of a macro.</string>
@@ -663,22 +663,22 @@
 	<string code="SaveAsTechnologyToolTipDescription">Save with name of a technology.</string>
 	<string code="SaveAsEnvironmentVariableToolTipTitle">Save global variables.</string>
 	<string code="SaveAsEnvironmentVariableToolTipDescription">Save with global variables name.</string>
-	<string code="OpenFileToolTipTitle">Open file (Ctrl + O).</string>
+	<string code="OpenFileToolTipTitle">Відкрийте файл (Ctrl + O).</string>
 	<string code="OpenFileToolTipDescription">Opening of a file.</string>
 	<string code="CloseProjectToolTipTitle">Закрити.</string>
 	<string code="CloseProjectToolTipDescription">Closing of the current project.</string>
 	<string code="ImportToolTipTitle">Import Control</string>
-	<string code="ImportToolTipDescription">Allows the execution of the workpiece import commands, script file, file dxf.</string>
+	<string code="ImportToolTipDescription">Allows the execution of the workpiece import commands, file, file dxf.</string>
 	<string code="ImportWorkpieceToolTipTitle">Import piece.</string>
-	<string code="ImportWorkpieceToolTipDescription">Allows the execution of the workpiece import commands, script file, file dxf.</string>
-	<string code="ImportScriptToolTipTitle">Import script.</string>
-	<string code="ImportScriptToolTipDescription">For importing the content of a script file.</string>
-	<string code="ImportDxfToolTipTitle">Import dxf file.</string>
-	<string code="ImportDfxToolTipDescription">Allows to import the geometries of a dxf file.</string>
-	<string code="ImportPGMToolTipTitle">Import Pgm file.</string>
-	<string code="ImportPGMToolTipDescription">Allows to import a program in Pgm format.</string>
-	<string code="ImportTcnToolTipTitle">Import tcn file.</string>
-	<string code="ImportTcnToolTipDescription">Allows to import a program in tcn format.</string>
+	<string code="ImportWorkpieceToolTipDescription">Дозволяє виконувати команди імпорту заготовки, файлу скрипта, файлу dxf.</string>
+	<string code="ImportScriptToolTipTitle">Імпорт скрепта</string>
+	<string code="ImportScriptToolTipDescription">Дозволяє імпортувати скрипт у форматі xcs.</string>
+	<string code="ImportDxfToolTipTitle">Імпорт dxf-файлу.</string>
+	<string code="ImportDfxToolTipDescription">Дозволяє імпортувати геометрію з dxf-файлу.</string>
+	<string code="ImportPGMToolTipTitle">Імпортувати Pgm-файл.</string>
+	<string code="ImportPGMToolTipDescription">Дозволяє імпортувати програму у форматі Pgm.</string>
+	<string code="ImportTcnToolTipTitle">Імпортувати файл tcn.</string>
+	<string code="ImportTcnToolTipDescription">Дозволяє імпортувати програму у форматі tcn.</string>
 	<string code="PasteToolTipTitle">Paste (Ctrl + V).</string>
 	<string code="PasteToolTipDescription">For pasting the content of the Clipboard.</string>
 	<string code="CutToolTipTitle">Cut (Ctrl + X).</string>
